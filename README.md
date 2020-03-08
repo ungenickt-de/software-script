@@ -1,4 +1,4 @@
-# linux-beginner-scripts
+# software-script
 
 This repo containes several scripts to easily setup some basic services on your virtual server / VPS / dedicated server.
 
@@ -9,11 +9,11 @@ This repo containes several scripts to easily setup some basic services on your 
 Without git, use the following to download this repository 
 
     apt-get install wget unzip
-    wget https://github.com/MinehubDE/linux-beginner-scripts/archive/master.zip && unzip master.zip && rm master.zip
+    wget https://github.com/ungenickt-de/software-script/archive/master.zip && unzip master.zip && rm master.zip
 
 If you have git installed, use 
 
-    git clone https://github.com/MinehubDE/linux-beginner-scripts.git
+    git clone https://github.com/ungenickt-de/software-script.git
 
 
 Go into the folder and execute the script of your choice, e.g.
