@@ -18,12 +18,12 @@ If you have git installed, use
 
 Go into the folder and execute the script of your choice, e.g.
 
-    cd linux-beginner-scripts* && ./bedrock_server.sh
+    cd software-script* && ./bedrock_server.sh
 
-    cd linux-beginner-scripts* && ./jenkins.sh
+    cd software-script* && ./jenkins.sh
 
-    cd linux-beginner-scripts* && ./minecraft_server.sh
+    cd software-script* && ./minecraft_server.sh
 
-    cd linux-beginner-scripts* && ./mysql_server.sh
+    cd software-script* && ./mysql_server.sh
 
-    cd linux-beginner-scripts* && ./teamspeak.sh
+    cd software-script* && ./teamspeak.sh
