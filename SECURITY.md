@@ -8,7 +8,7 @@ currently being supported with security updates.
 | Version | Supported          |
 | ------- | ------------------ |
 | V1   | :white_check_mark: |
-|    | :x:                |
+|    | :slight_smile:                |
 |    | :x: |
 |    | :x:                |
 
